@@ -2,7 +2,9 @@
 Inspired by the preview window in video editing software such as Sony Vegas, This sketch will render a preview for immersive media composed out of several videos layers, making them into one. The sketch green screens the layers to show all of them for purposes of illustrating that they have been recorded.
 
 ## Usage
-Drag  & drop one video  and then another to load them. Press R to write them both into a preview, press T to toggle 360 view.
+Drag  & drop one video  and then another to load them. 
+Press R to write them both into a preview. 
+Press T to toggle 360 view.
 
 ## Dependencies:
 •ofxImageSequenceRecorder
