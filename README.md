@@ -1,6 +1,8 @@
 #ovPlaybackPreview
 Inspired by the preview window in video editing software such as Sony Vegas, This sketch will render a preview for immersive media composed out of several videos layers, making them into one. The sketch green screens the layers to show all of them for purposes of illustrating that they have been recorded.
 
+The sketch is part of a series of 360° utility examples I made in openFrameworks, they are distinguished by the 'ov' (omni-vid) prefix.
+
 ## Usage
 Drag  & drop one video  and then another to load them. 
 
