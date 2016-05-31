@@ -3,11 +3,15 @@ Inspired by the preview window in video editing software such as Sony Vegas, Thi
 
 ## Usage
 Drag  & drop one video  and then another to load them. 
+
 Press R to write them both into a preview. 
+
 Press T to toggle 360 view.
+
 
 ## Dependencies:
 •ofxImageSequenceRecorder
+
 •ofxImageSequencePlayer
 
 ### Examples
